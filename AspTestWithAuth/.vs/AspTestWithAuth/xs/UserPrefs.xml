@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1DEE476E-AA8D-4F09-8C46-41D914961EDE}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AspTestWithAuth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspTestWithAuth/Program.cs">
+    <Files>
+      <File FileName="AspTestWithAuth/Program.cs" Line="18" Column="1" />
+      <File FileName="AspTestWithAuth/appsettings.json" Line="1" Column="1" />
+      <File FileName="AspTestWithAuth/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspTestWithAuth" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="AspTestWithAuth" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
