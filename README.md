@@ -8,3 +8,4 @@ In this repo I`ll commit my progress about learning ASP.NET. So lets begin, toda
 - [Microsoft authentication](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/social/?view=aspnetcore-7.0&tabs=visual-studio)
 - No ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), bcs I have Windows 11
 - [ASP.NET roadmap](https://roadmap.sh/aspnet-core)
+- [EntityFramework](https://learn.microsoft.com/en-us/ef/)
