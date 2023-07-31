@@ -9,3 +9,6 @@ In this repo I`ll commit my progress about learning ASP.NET. So lets begin, toda
 - No ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), bcs I have Windows 11
 - [ASP.NET roadmap](https://roadmap.sh/aspnet-core)
 - [EntityFramework](https://learn.microsoft.com/en-us/ef/)
+
+## Tasks
+- [ ] Understand project architecture
