@@ -1,7 +1,7 @@
 # ASP.NET
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-In this repo I`ll commit my progress about learning ASP.NET. So lets begin, today is 17.07.2023.
+In this repo, I`ll commit my progress in learning ASP.NET. So let's begin, today is 17.07.2023.
 
 ## What I will use
 - [Documentation ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0)
@@ -12,3 +12,4 @@ In this repo I`ll commit my progress about learning ASP.NET. So lets begin, toda
 
 ## Tasks
 - [ ] Understand project architecture
+- [ ] Improve my sql knowledges
