@@ -14,3 +14,4 @@ In this repo, I`ll commit my progress in learning ASP.NET. So let's begin, today
 - [ ] Understand project architecture
 - [ ] Improve my sql knowledges
 - [ ] Learn MVC model
+- [ ] Learn Razor pages
